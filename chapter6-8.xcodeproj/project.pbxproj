@@ -13,6 +13,7 @@
 		7C15BFF21A1C26EE0011E18C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C15BFF11A1C26EE0011E18C /* Images.xcassets */; };
 		7C15BFF51A1C26EE0011E18C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7C15BFF31A1C26EE0011E18C /* LaunchScreen.xib */; };
 		7C15C0011A1C26EE0011E18C /* chapter6_8Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C15C0001A1C26EE0011E18C /* chapter6_8Tests.swift */; };
+		7C15C00B1A1C27940011E18C /* json.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7C15C00A1A1C27940011E18C /* json.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		7C15BFFA1A1C26EE0011E18C /* chapter6-8Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "chapter6-8Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C15BFFF1A1C26EE0011E18C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7C15C0001A1C26EE0011E18C /* chapter6_8Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chapter6_8Tests.swift; sourceTree = "<group>"; };
+		7C15C00A1A1C27940011E18C /* json.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = json.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				7C15BFEA1A1C26EE0011E18C /* AppDelegate.swift */,
 				7C15BFEC1A1C26EE0011E18C /* ViewController.swift */,
 				7C15BFEE1A1C26EE0011E18C /* Main.storyboard */,
+				7C15C00A1A1C27940011E18C /* json.txt */,
 				7C15BFF11A1C26EE0011E18C /* Images.xcassets */,
 				7C15BFF31A1C26EE0011E18C /* LaunchScreen.xib */,
 				7C15BFE81A1C26EE0011E18C /* Supporting Files */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C15C00B1A1C27940011E18C /* json.txt in Resources */,
 				7C15BFF01A1C26EE0011E18C /* Main.storyboard in Resources */,
 				7C15BFF51A1C26EE0011E18C /* LaunchScreen.xib in Resources */,
 				7C15BFF21A1C26EE0011E18C /* Images.xcassets in Resources */,
